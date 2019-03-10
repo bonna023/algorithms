@@ -1,5 +1,6 @@
 # algorithmique en C
 
+```
 Tri par insertion
 Tri par fusion
 Tri par tas
@@ -17,5 +18,6 @@ Graphes (parcours en largeur, en profondeur, tri topologique, ..)
 Arbres couvrants minimaux (Kruskal, Prim, ..)
 Plus courts chemins à origine unique (Bellman-Ford, Dijkstra, ..)
 Plus courts chemins entre toutes paires de sommets
+```
 
-Et plein d'autres trucs cool :)
+coming soon ;)
