@@ -1,6 +1,6 @@
 # algorithmique en C
 
-Ce repo présente les différents algos de bases en programmation, en C.
+Ce repo présente les différents algos de bases en programmation.
 
 INDEX :  
 **arbres_binaires_de_recherche/**  
