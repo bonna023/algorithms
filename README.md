@@ -1,1 +1,3 @@
-# algorithms
+# algorithms in C
+
+coming soon ..
