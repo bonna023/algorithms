@@ -1,5 +1,11 @@
 # algorithmique en C
 
+coming soon ;)
+  
+  
+  
+  
+  
 ```
 Tri par insertion
 Tri par fusion
@@ -19,5 +25,3 @@ Arbres couvrants minimaux (Kruskal, Prim, ..)
 Plus courts chemins à origine unique (Bellman-Ford, Dijkstra, ..)
 Plus courts chemins entre toutes paires de sommets
 ```
-
-coming soon ;)
